@@ -1,4 +1,4 @@
-package com.ventas.pruebatecnica;
+package com.ventas.pruebatecnica.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
